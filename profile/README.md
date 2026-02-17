@@ -1,31 +1,26 @@
 # Differential Labs
 
-AI and advanced analytics for the casino industry.
+AI and analytics advisory for the casino industry.
 
-Differential Labs builds tools that merge deep casino expertise with cutting-edge machine learning to optimize marketing, operations, and fraud prevention for casino operators globally. Our platform is built by gaming professionals with hands-on experience across every major casino market.
+Differential Labs is the largest analytics consultancy dedicated exclusively to the gaming industry. We partner with casino operators globally to implement AI-driven solutions across marketing, fraud prevention, reinvestment optimization, pricing, yield management, and hotel performance. Our team has delivered initiatives for two-thirds of the world's largest gaming companies.
 
-## Products
+We are casino analysts first. Technology is only valuable when it drives measurable results — so our work doesn't stop at dashboards or slides. We embed AI into decision-making and create strategies that deliver lasting, trackable impact.
+
+## What We Do
+
+- **Marketing** — Player-level campaign optimization using a library of 40+ shelf campaigns, each designed to change a specific player behavior. Typical engagements drive 20%+ incremental profit lift.
+- **Reinvestment & Efficiency** — Right-sizing reinvestment spend without sacrificing profit, typically reducing reinvestment by 3–6 percentage points.
+- **Fraud & Advantage Play** — Analytical and AI tools to identify fraud and advantage play that suppress win rates.
+- **Floor & RTP Optimization** — Data-driven casino product and RTP strategy.
+- **GenAI** — Casino-specific large language models built on top of proprietary data.
+
+## Our Sister Company
 
 ### [Hex Gaming](https://www.hexgaming.ai/)
 
-Casino-expert AI agents that optimize marketing, surveillance, and operations in real time. Hex deploys LLM-powered agents trained to emulate core casino roles — from player development to fraud detection — and orchestrates decisions across the casino floor.
-
-Key applications include:
-
-- **Hex Bespoke** — Hyper-personalized player recommendations for hosting teams
-- **Hex Pulse** — Real-time, AI-orchestrated 1:1 marketing that adapts to each patron's gaming journey
-- **Hex Sentinel** — Proactive fraud and integrity detection that evolves as threats do
-
-### diff.marketing
-
-AI-driven campaign optimization that finds the best marketing strategy at the player level based on upside, preferences, and lifecycle — adapting as behavior changes.
-
-### diff.realtime
-
-Real-time floor marketing that personalizes patron engagement while a player is active on the floor.
+Hex deploys casino-expert AI agents that scale expert judgment and orchestrate real-time decisions across the casino floor — from hyper-personalized player development to real-time marketing to proactive fraud detection.
 
 ## Links
 
 - **Website:** [diffgaming.com](https://www.diffgaming.com)
-- **Hex Platform:** [hexgaming.ai](https://www.hexgaming.ai)
 - **LinkedIn:** [Differential Labs](https://www.linkedin.com/company/diffgaming)
